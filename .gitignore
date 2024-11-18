@@ -1,0 +1,8 @@
+.yarn
+.next
+.vscode
+.pnp*
+.prettierrc
+
+.env**
+next-env.d.ts
